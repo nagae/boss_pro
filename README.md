@@ -1,1 +1,1 @@
-# interdisciplinary_seminor_pro
+# 分野横断セミナーPro
