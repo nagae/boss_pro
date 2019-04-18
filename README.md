@@ -31,7 +31,7 @@ MLへの参加を希望する人は ```nagae＠tohoku.ac.jp``` へ、件名を�
   - 参加者数：10名程度
 - 第2回 **TBA**
   - 日時：5月8日(水) 17:30-19:00
-  - 講演者：[東北大学 工学研究科 ファインメカニクス専攻 菊地 謙次 (予定)](https://researchmap.jp/7000010036/)
+  - 講演者：[東北大学 工学研究科 ファインメカニクス専攻 菊地 謙次](https://researchmap.jp/7000010036/)
   - 場所：[東北大学 災害科学国際研究所](http://irides.tohoku.ac.jp/access/index.html) 2階 演習室B
   - [参加登録](https://chouseisan.com/s?h=5bc70008e36a4c0e961d9935fee20f71) (Powered by [調整さん](https://chouseisan.com))
 - 第3回 **TBA**
