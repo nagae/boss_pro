@@ -33,7 +33,7 @@
   - 日時：5月8日(水) 17:30-19:00
   - 場所：[東北大学 災害科学国際研究所](http://irides.tohoku.ac.jp/access/index.html) 2階 演習室B
 - 第3回 **大人のためのボトムアップ式人工細胞工学概論**  
-講演者：[東北大学 工学研究科 ロボティクス専攻 野村 M. 慎一郎 (予定)](https://researchmap.jp/read0156340/)
+講演者：[東北大学 工学研究科 ロボティクス専攻 野村 M. 慎一郎](https://researchmap.jp/read0156340/)
   - 日時：6月12日(水) 17:30-19:00
   - 場所：[東北大学 災害科学国際研究所](http://irides.tohoku.ac.jp/access/index.html) 2階 演習室B
   - 参加登録：[https://chouseisan.com/s?h=b80f00e055584c07adab58b49ab733c0](https://chouseisan.com/s?h=b80f00e055584c07adab58b49ab733c0) (Powered by [調整さん](https://chouseisan.com))  
