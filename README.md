@@ -34,14 +34,14 @@
   - 日時：5月8日(水) 17:30-19:00
   - 場所：[東北大学 災害科学国際研究所](http://irides.tohoku.ac.jp/access/index.html) 2階 演習室B
   - 参加登録：[https://chouseisan.com/s?h=5bc70008e36a4c0e961d9935fee20f71](https://chouseisan.com/s?h=5bc70008e36a4c0e961d9935fee20f71) (Powered by [調整さん](https://chouseisan.com))  
-  * __配布資料の準備や懇親会の手配のため，可能な範囲で事前に登録していただけると幸いです．__
-  * __セミナー・懇親会ともに，博士課程学生やその候補となり得る学生の参加も歓迎します．__
-  ※ __懇親会のみの参加も歓迎です．__
-
 - 第3回 **大人のためのボトムアップ式人工細胞工学概論A**  
 講演者：[東北大学 工学研究科 ロボティクス専攻 野村 M. 慎一郎 (予定)](https://researchmap.jp/read0156340/)
   - 日時：6月12日(水) 17:30-19:00
   - 場所：[東北大学 災害科学国際研究所](http://irides.tohoku.ac.jp/access/index.html) 2階 演習室B
+  - 参加登録：[https://chouseisan.com/s?h=b80f00e055584c07adab58b49ab733c0](https://chouseisan.com/s?h=b80f00e055584c07adab58b49ab733c0) (Powered by [調整さん](https://chouseisan.com))  
+  * __配布資料の準備や懇親会の手配のため，可能な範囲で事前に登録していただけると幸いです．__
+  * __セミナー・懇親会ともに，博士課程学生やその候補となり得る学生の参加も歓迎します．__
+  ※ __懇親会のみの参加も歓迎です．__
 - 第4回 **TBA**
   - 日時：7月10日(水) 17:30-19:00
   - 場所：未定
