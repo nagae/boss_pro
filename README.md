@@ -45,6 +45,10 @@
 講演者：[東北大学 災害科学国際研究所 水谷大二郎](http://strep.main.jp/modules/pico/index.php?content_id=62)
   - 日時：7月10日(水) 17:30-19:00
   - 場所：場所：[東北大学 災害科学国際研究所](http://irides.tohoku.ac.jp/access/index.html) 2階 演習室B
+  - 参加登録：[https://chouseisan.com/s?h=ef6ee7b6571c4390860cb521b89b63cf](https://chouseisan.com/s?h=ef6ee7b6571c4390860cb521b89b63cf)(Powered by [調整さん](https://chouseisan.com))  
+  __・配布資料の準備や懇親会の手配のため，可能な範囲で事前に登録していただけると幸いです．__  
+  __・セミナー・懇親会ともに，博士課程学生やその候補となり得る学生の参加も歓迎します．__  
+  __・懇親会のみの参加も歓迎です．__  
 - 第5回 **TBA**
   - 日時：9月11日(水) 17:30-19:00
   - 場所：未定
