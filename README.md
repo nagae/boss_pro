@@ -37,22 +37,19 @@
   - 日時：6月12日(水) 17:30-19:00
   - 場所：[東北大学 災害科学国際研究所](http://irides.tohoku.ac.jp/access/index.html) 2階 演習室B
   - 参加登録：[https://chouseisan.com/s?h=b80f00e055584c07adab58b49ab733c0](https://chouseisan.com/s?h=b80f00e055584c07adab58b49ab733c0) (Powered by [調整さん](https://chouseisan.com))  
-  __・配布資料の準備や懇親会の手配のため，可能な範囲で事前に登録していただけると幸いです．__  
-  __・セミナー・懇親会ともに，博士課程学生やその候補となり得る学生の参加も歓迎します．__  
-  __・懇親会のみの参加も歓迎です．__  
-  __・大人になりきれていない聴講者も大歓迎です．__
 - 第4回 **「橋や道路の『資産価値』を高めるにはどうしたらよいか〜インフラアセットマネジメントと統計数理(仮)〜」**  
 講演者：[東北大学 災害科学国際研究所 水谷大二郎](http://strep.main.jp/modules/pico/index.php?content_id=62)
   - 日時：7月10日(水) 17:30-19:00
-  - 場所：場所：[東北大学 災害科学国際研究所](http://irides.tohoku.ac.jp/access/index.html) 2階 演習室B
+  - 場所：[東北大学 災害科学国際研究所](http://irides.tohoku.ac.jp/access/index.html) 2階 演習室B
   - 参加登録：[https://chouseisan.com/s?h=ef6ee7b6571c4390860cb521b89b63cf](https://chouseisan.com/s?h=ef6ee7b6571c4390860cb521b89b63cf)(Powered by [調整さん](https://chouseisan.com))  
-  __・配布資料の準備や懇親会の手配のため，可能な範囲で事前に登録していただけると幸いです．__  
-  __・セミナー・懇親会ともに，博士課程学生やその候補となり得る学生の参加も歓迎します．__  
-  __・懇親会のみの参加も歓迎です．__  
 - 第5回 **TBA**  
 講演者：[東北大学 情報科学研究科 応用情報科学専攻 多田隈 健二郎](https://researchmap.jp/7000019110/)
   - 日時：9月18日(水) 17:30-19:00
-  - 場所：未定
+  - 場所：[東北大学 災害科学国際研究所](http://irides.tohoku.ac.jp/access/index.html) 2階 演習室B
+  - 参加登録：[https://chouseisan.com/s?h=83d2fe97d02647f18989197239440032](https://chouseisan.com/s?h=83d2fe97d02647f18989197239440032)(Powered by [調整さん](https://chouseisan.com))  
+  __・配布資料の準備や懇親会の手配のため，可能な範囲で事前に登録していただけると幸いです．__  
+  __・セミナー・懇親会ともに，博士課程学生やその候補となり得る学生の参加も歓迎します．__  
+  __・懇親会のみの参加も歓迎です．__  
 - 第6回 **TBA**
   - 日時：10月9日(水) 17:30-19:00
   - 場所：未定
