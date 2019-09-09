@@ -42,7 +42,7 @@
   - 日時：7月10日(水) 17:30-19:00
   - 場所：[東北大学 災害科学国際研究所](http://irides.tohoku.ac.jp/access/index.html) 2階 演習室B
   - 参加登録：[https://chouseisan.com/s?h=ef6ee7b6571c4390860cb521b89b63cf](https://chouseisan.com/s?h=ef6ee7b6571c4390860cb521b89b63cf)(Powered by [調整さん](https://chouseisan.com))  
-- 第5回 **TBA**  
+- 第5回 **「ロボット機構の考案と具現化の実際：<br>―　非まじめで泥臭い設計試作の混沌の中からの原理抽出　―」**  
 講演者：[東北大学 情報科学研究科 応用情報科学専攻 多田隈 健二郎](https://researchmap.jp/7000019110/)
   - 日時：9月18日(水) 17:30-19:00
   - 場所：[東北大学 災害科学国際研究所](http://irides.tohoku.ac.jp/access/index.html) 2階 演習室B
