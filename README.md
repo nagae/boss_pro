@@ -52,7 +52,11 @@
 講演者：[東北大学 工学研究科 航空宇宙工学専攻 野々村 拓](https://researchmap.jp/7000019134/)
   - 日時：12月11日(水) 17:30-19:00
   - 場所：[東北大学 災害科学国際研究所](http://irides.tohoku.ac.jp/access/index.html) 2階 演習室B
-  - 参加登録：[https://chouseisan.com/s?h=1be355baf6f240cd8f08a8a17d7c50c8](https://chouseisan.com/s?h=7d5d6b29ebd24c8e9bba1ea0e7e180bb)  
+- 第8回 **TBA**
+講演者：[東北大学 電気通信研究所 人間情報システム研究部門 加納 剛史](https://researchmap.jp/read0156300/)
+  - 日時：2020年1月15日(水) 17:30-19:00
+  - 場所：[東北大学 総合研究棟]() 8階 810会議室 **【会場がいつもと異なります．ご注意下さい】**
+  - 参加登録：[https://chouseisan.com/s?h=1f01fd3c18c84ff4be1e830e0a350363](https://chouseisan.com/s?h=1f01fd3c18c84ff4be1e830e0a350363)  
   __・配布資料の準備や懇親会の手配のため，可能な範囲で事前に登録していただけると幸いです．__  
   __・セミナー・懇親会ともに，博士課程学生やその候補となり得る学生の参加も歓迎します．__  
   __・懇親会のみの参加も歓迎です．__  
