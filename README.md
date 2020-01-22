@@ -28,7 +28,7 @@
 講演者：[東北大学 大学院情報科学研究科 システム情報科学専攻 山口 明彦](http://akihikoy.net/info/index-j.php)
   - 日時：2020年2月12日(水) 17:30-19:00
   - 場所：[東北大学 災害科学国際研究所](http://irides.tohoku.ac.jp/access/index.html) 2階 演習室B
-  - 参加登録：[https://chouseisan.com/s?h=f04324fade414989a22131d4432546da](https://chouseisan.com/s?h=f04324fade414989a22131d4432546da)
+  - 参加登録：[https://chouseisan.com/s?h=f04324fade414989a22131d4432546da](https://chouseisan.com/s?h=f04324fade414989a22131d4432546da)  
   __・配布資料の準備や懇親会の手配のため，可能な範囲で事前に登録していただけると幸いです．__  
   __・セミナー・懇親会ともに，博士課程学生やその候補となり得る学生の参加も歓迎します．__  
   __・懇親会のみの参加も歓迎です．__  
