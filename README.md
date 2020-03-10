@@ -25,7 +25,7 @@
 # 次回のセミナー
 - 第10回 **TBA**  
 講演者：[東北大学 工学研究科 機械機能創成専攻 戸田雅也](https://researchmap.jp/todamasaya)
-  - 3月18日(水) 17:30-19:00
+  - 3月26日(木) 17:30-19:00 ← __新型コロナウィルス感染拡大の影響を鑑み，延期いたしました__
   - 場所：[東北大学 災害科学国際研究所](http://irides.tohoku.ac.jp/access/index.html) 2階 演習室B
   - 参加登録：[https://chouseisan.com/s?h=49b01f5be25341f6a32d9b2f1d943fa1](https://chouseisan.com/s?h=49b01f5be25341f6a32d9b2f1d943fa1)  
   __・配布資料の準備や懇親会の手配のため，可能な範囲で事前に登録していただけると幸いです．__  
